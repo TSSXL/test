@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "C:/Users/\u6C64\u80DC\u80DC/Desktop/\u8BFE\u5802/\u6C64\u80DC/halloween/Assets/w.unity"
+  isLoaded: 1
+  isActive: 1
